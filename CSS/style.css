@@ -1,0 +1,126 @@
+body,html{
+    color: #40514e;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    font-family:  'Montserrat', sans-serif;
+}
+
+h1{
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #11999E;
+    line-height: 2;
+}
+
+.subtitle-top-container{
+    font-weight: normal;
+}
+p{
+    line-height: 2;
+}
+
+h2{
+    font-family: 'Padauk', sans-serif;
+    font-size: 2.5rem;
+    color: #11999E;
+    padding: 10px;
+}
+
+h3{
+    font-family: 'Padauk', sans-serif;
+    color: #11999E;
+}
+a{
+    color: #11999e;
+    font-family:  'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #eaf6f6;
+}
+
+.top-container{
+    background-color: #f0e5e2;
+    padding: 20px;
+    
+}
+
+.top-cloud{
+    position: relative;
+    left: 226px;
+    top: 40px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+
+
+
+.skill-row img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.middle-container{
+    padding: 100px;
+}
+
+.profile-img{
+    width: 20%;
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+hr{
+    border: dotted #94ebeb 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.contact-me-button {
+    text-decoration: none;
+    background-color: #11999E;
+    color: white;
+    border-radius: 25px;
+    padding: 20px;
+ }
+
+ .contact-me-button:hover{
+     background-color: white;
+     color: #11999E;
+ }
+
+ .bottom-container{
+     background-color: #66bfbf;
+     padding: 50px 0 20px;
+     color: white;
+ }
+
+ .copyright{
+     font-size: 0.75rem;
+     padding: 20px 0;
+ }
